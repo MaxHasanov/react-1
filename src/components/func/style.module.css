@@ -1,0 +1,13 @@
+.title {
+    border: 2px solid green;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    margin: 15px;
+    box-sizing: border-box;
+
+}
